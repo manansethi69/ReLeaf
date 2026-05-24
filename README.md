@@ -1,6 +1,6 @@
 # ReLeaf — Post-Wildfire Ecosystem Recovery Dashboard
 
-> Built for **Hack the Elements** · ShiftKey Labs · May 2026 · Theme: Fire
+> Built for **Hack the Elements** · ShiftKey Labs · May 2026 · Theme: Fire | Earth | Air
 
 A dashboard that shows what happens **after** a wildfire goes out — tracking how vegetation, air quality, and soil recover over months and years.
 
@@ -61,17 +61,6 @@ The recovery curves are not real-time satellite data — they are research-calib
 - Plotly
 - Folium + streamlit-folium
 - Pandas + NumPy
-
----
-
-## Project files
-
-```
-app.py                  Main Streamlit application (all dashboard logic)
-requirements.txt        Python dependencies
-.streamlit/config.toml  Streamlit server config
-PITCH_SCRIPT.md         4-minute pitch script used at the hackathon
-```
 
 ---
 
