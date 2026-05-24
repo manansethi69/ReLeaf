@@ -64,17 +64,6 @@ The recovery curves are not real-time satellite data — they are research-calib
 
 ---
 
-## Project files
-
-```
-app.py                  Main Streamlit application (all dashboard logic)
-requirements.txt        Python dependencies
-.streamlit/config.toml  Streamlit server config
-PITCH_SCRIPT.md         4-minute pitch script used at the hackathon
-```
-
----
-
 ## Who it is for
 
 Teachers, journalists, NGOs, and local governments — anyone who needs to explain or understand long-term wildfire recovery to a non-technical audience.
